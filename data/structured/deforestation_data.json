@@ -1,0 +1,143 @@
+[
+  {
+    "location": "Mumbai",
+    "lat": 19.07283,
+    "lon": 72.88261,
+    "tree_cover_loss_by_year": [
+      {
+        "umd_tree_cover_loss__year": 2006,
+        "loss_ha": 0.07268
+      },
+      {
+        "umd_tree_cover_loss__year": 2007,
+        "loss_ha": 0.14536
+      }
+    ]
+  },
+  {
+    "location": "Semi-arid India example",
+    "lat": 26.9,
+    "lon": 75.8,
+    "tree_cover_loss_by_year": [
+      {
+        "umd_tree_cover_loss__year": 2003,
+        "loss_ha": 0.06881
+      },
+      {
+        "umd_tree_cover_loss__year": 2005,
+        "loss_ha": 0.13762
+      },
+      {
+        "umd_tree_cover_loss__year": 2025,
+        "loss_ha": 1.23859
+      }
+    ]
+  },
+  {
+    "location": "Sub-Saharan Africa example",
+    "lat": -1.3,
+    "lon": 36.8,
+    "tree_cover_loss_by_year": [
+      {
+        "umd_tree_cover_loss__year": 2001,
+        "loss_ha": 64.66585
+      },
+      {
+        "umd_tree_cover_loss__year": 2002,
+        "loss_ha": 0.99959
+      },
+      {
+        "umd_tree_cover_loss__year": 2003,
+        "loss_ha": 1.30716
+      },
+      {
+        "umd_tree_cover_loss__year": 2004,
+        "loss_ha": 1.99918
+      },
+      {
+        "umd_tree_cover_loss__year": 2005,
+        "loss_ha": 5.22863
+      },
+      {
+        "umd_tree_cover_loss__year": 2006,
+        "loss_ha": 4.45971
+      },
+      {
+        "umd_tree_cover_loss__year": 2007,
+        "loss_ha": 11.61063
+      },
+      {
+        "umd_tree_cover_loss__year": 2008,
+        "loss_ha": 1.61472
+      },
+      {
+        "umd_tree_cover_loss__year": 2009,
+        "loss_ha": 1.46094
+      },
+      {
+        "umd_tree_cover_loss__year": 2010,
+        "loss_ha": 9.99591
+      },
+      {
+        "umd_tree_cover_loss__year": 2011,
+        "loss_ha": 5.07485
+      },
+      {
+        "umd_tree_cover_loss__year": 2012,
+        "loss_ha": 8.68875
+      },
+      {
+        "umd_tree_cover_loss__year": 2013,
+        "loss_ha": 3.76769
+      },
+      {
+        "umd_tree_cover_loss__year": 2014,
+        "loss_ha": 2.84499
+      },
+      {
+        "umd_tree_cover_loss__year": 2015,
+        "loss_ha": 1.23027
+      },
+      {
+        "umd_tree_cover_loss__year": 2016,
+        "loss_ha": 5.15174
+      },
+      {
+        "umd_tree_cover_loss__year": 2017,
+        "loss_ha": 4.38282
+      },
+      {
+        "umd_tree_cover_loss__year": 2018,
+        "loss_ha": 3.61391
+      },
+      {
+        "umd_tree_cover_loss__year": 2019,
+        "loss_ha": 3.15256
+      },
+      {
+        "umd_tree_cover_loss__year": 2020,
+        "loss_ha": 6.22822
+      },
+      {
+        "umd_tree_cover_loss__year": 2021,
+        "loss_ha": 7.3816
+      },
+      {
+        "umd_tree_cover_loss__year": 2022,
+        "loss_ha": 3.38323
+      },
+      {
+        "umd_tree_cover_loss__year": 2023,
+        "loss_ha": 1.76851
+      },
+      {
+        "umd_tree_cover_loss__year": 2024,
+        "loss_ha": 11.99509
+      },
+      {
+        "umd_tree_cover_loss__year": 2025,
+        "loss_ha": 12.8409
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "location": "Semi-arid India example",
+    "lat": 26.9,
+    "lon": 75.8,
+    "esa_tile": "N24E075",
+    "land_cover_classes_found": [
+      "Bare / sparse vegetation",
+      "Built-up",
+      "Cropland",
+      "Grassland",
+      "Permanent water bodies",
+      "Shrubland",
+      "Tree cover"
+    ],
+    "habitat_diversity_count_esa": 7,
+    "land_cover_proportions": {
+      "Built-up": 0.7357,
+      "Grassland": 0.0768,
+      "Bare / sparse vegetation": 0.0079,
+      "Tree cover": 0.1415,
+      "Shrubland": 0.0277,
+      "Cropland": 0.0094,
+      "Permanent water bodies": 0.001
+    },
+    "habitat_diversity_shannon_index": 0.888
+  },
+  {
+    "location": "Sub-Saharan Africa example",
+    "lat": -1.3,
+    "lon": 36.8,
+    "esa_tile": "S03E036",
+    "land_cover_classes_found": [
+      "Bare / sparse vegetation",
+      "Built-up",
+      "Cropland",
+      "Grassland",
+      "Herbaceous wetland",
+      "Permanent water bodies",
+      "Shrubland",
+      "Tree cover"
+    ],
+    "habitat_diversity_count_esa": 8,
+    "land_cover_proportions": {
+      "Tree cover": 0.2889,
+      "Built-up": 0.4758,
+      "Shrubland": 0.0731,
+      "Grassland": 0.1369,
+      "Bare / sparse vegetation": 0.0096,
+      "Cropland": 0.0147,
+      "Permanent water bodies": 0.001,
+      "Herbaceous wetland": 0.0001
+    },
+    "habitat_diversity_shannon_index": 1.29
+  }
+]

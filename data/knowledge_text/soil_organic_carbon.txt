@@ -1,0 +1,19 @@
+Topic: Soil organic carbon and ecosystem resilience
+
+Soil organic carbon is an important component of soil organic matter and is connected to soil structure, nutrient cycling and water-related properties.
+
+FAO identifies practices such as minimum tillage, crop rotation, organic matter addition and cover cropping as sustainable soil and water management practices that can improve soil health, reduce erosion and enhance water infiltration and storage.
+
+IPCC identifies soil carbon management practices including crop rotation, cover crops, reduced tillage, residue retention, improved water management, organic amendments and agroforestry.
+
+Soil carbon should not be interpreted in isolation. Its ecological significance depends on other environmental conditions such as rainfall, temperature, soil properties, land use and vegetation.
+
+Reasoning connection:
+Low soil organic carbon combined with low rainfall can indicate a stronger need to consider soil-cover and water-retention interventions than low carbon alone.
+
+Sources:
+FAO — Integrated soil and water management
+https://www.fao.org/india/news/detail/Integrated-soil-and-water-management-essential-to-achieve-food-security-in-India-FAO/en
+
+IPCC AR6 WGIII Chapter 7
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/

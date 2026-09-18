@@ -1,0 +1,19 @@
+Topic: Habitat connectivity and biodiversity
+
+Biodiversity is influenced by land-use patterns as well as the condition of individual habitats. Fragmentation can separate habitat patches and reduce ecological connectivity.
+
+Agroforestry and diversified agricultural landscapes can provide additional vegetation structure within working landscapes. FAO describes agroforestry as contributing to biodiversity conservation, while IPCC identifies biodiversity management and ecosystem connectivity as important land-system adaptation options.
+
+Connectivity interventions should prioritize appropriate native or locally suitable vegetation and should not automatically replace existing natural ecosystems with plantations.
+
+Reasoning connection:
+If biodiversity richness is low and land-use information indicates fragmentation or intensive monoculture, improving habitat connectivity can complement on-farm biodiversity measures.
+
+The recommendation should consider the surrounding landscape rather than evaluating a single field in isolation.
+
+Sources:
+FAO Agroforestry
+https://www.fao.org/agroforestry/about-agroforestry/faqs/
+
+IPCC AR6 Synthesis Report — Figure 4.5
+https://www.ipcc.ch/report/ar6/syr/figures/figure-4-5/

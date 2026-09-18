@@ -1,0 +1,19 @@
+Topic: Agricultural nutrient management and pollution
+
+Agricultural nutrient management affects both production and environmental quality. Excess nutrient application can contribute to nutrient losses and environmental pollution.
+
+FAO describes cover crops as useful for recycling nutrients and capturing nutrients that might otherwise be lost from the soil. Soil cover can therefore contribute to nutrient retention while also providing soil and water benefits.
+
+IPCC identifies nutrient management as an agricultural management option and notes that some soil-carbon strategies can create trade-offs if they rely on additional fertilizer inputs, including potential increases in nitrous oxide emissions.
+
+Reasoning connection:
+When an environmental profile indicates intensive agriculture together with a pollution concern, the system should consider nutrient-management practices rather than recommending additional fertilizer simply because soil productivity is low.
+
+Recommendations should consider soil conditions, crop requirements, rainfall and existing management.
+
+Sources:
+FAO — Soil Organic Cover
+https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+
+IPCC AR6 WGIII Chapter 7
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/

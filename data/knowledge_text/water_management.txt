@@ -1,0 +1,19 @@
+Topic: Soil water management and ecosystem resilience
+
+Water availability interacts strongly with soil condition, vegetation and climate. Soil cover can reduce evaporation and improve infiltration, while soil structure influences how water moves into and through the soil.
+
+FAO describes soil cover as important for maintaining moisture and improving infiltration. Integrated soil and water management practices can improve water infiltration and storage and reduce erosion.
+
+IPCC identifies improved water management as one component of soil-carbon and agricultural management. It also notes that some water-saving or land-based interventions can create trade-offs for rivers, wetlands or biodiversity depending on how they are implemented.
+
+Reasoning connection:
+When rainfall is low and soil organic carbon or vegetation cover is also low, recommendations should consider water retention and infiltration together with soil management.
+
+Water interventions should be evaluated against local hydrology rather than assuming that increasing water use or irrigation is always beneficial.
+
+Sources:
+FAO — Soil Organic Cover
+https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+
+IPCC AR6 WGIII Chapter 17
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-17/

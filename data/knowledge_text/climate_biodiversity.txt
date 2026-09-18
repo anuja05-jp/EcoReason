@@ -1,0 +1,15 @@
+Topic: Climate conditions and biodiversity risk
+
+Climate variables such as temperature and rainfall interact with soil, vegetation and habitat conditions. Biodiversity responses therefore should not be inferred from temperature or rainfall alone.
+
+IPCC describes land-based adaptation options including agroforestry, biodiversity management, ecosystem connectivity, improved cropland management and water-resource management. The benefits and trade-offs of these options vary with location and scale.
+
+A biodiversity recommendation should therefore combine climate information with land use, soil condition and biodiversity observations whenever possible.
+
+Reasoning connection:
+Low rainfall combined with low soil organic carbon and intensive land use represents a different ecological situation from low rainfall occurring in a well-vegetated natural ecosystem. The same intervention should not automatically be recommended for both.
+
+EcoReason should use multiple environmental variables to identify interacting pressures before producing an intervention.
+
+Source: IPCC AR6 WGII Chapter 18
+https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-18/

@@ -1,0 +1,14 @@
+Topic: Urban land use and air quality
+
+Urban land use can influence local air-quality conditions through the concentration and spatial distribution of traffic, industrial activity, buildings and other human activities.
+
+Air-quality measurements such as PM2.5, PM10 and nitrogen dioxide (NO2) can be used to describe observed atmospheric conditions at a location.
+
+The relationship between land use and air quality is complex. Built-up land dominance alone does not establish that urban development caused a particular pollution concentration. Meteorology, emissions sources, traffic, industrial activity and regional pollution transport can also influence observed concentrations.
+
+Reasoning connection:
+When a location has a high proportion of built-up land together with measured PM2.5, PM10 or NO2 concentrations, the system can identify an urban-air-quality association for further assessment.
+
+The recommendation should not claim that built-up land alone caused the observed pollution. Additional information about emission sources, traffic, industry and meteorological conditions may be required for stronger causal attribution.
+
+Source: Environmental air-quality assessment framework.

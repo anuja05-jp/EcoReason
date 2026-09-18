@@ -1,0 +1,19 @@
+Topic: Crop diversification
+
+Crop diversification means increasing the variety of crops or plant species used across a farming system through rotations, mixtures or other forms of diversification. FAO includes species diversification as one of the three core principles of conservation agriculture.
+
+Diversification can support biodiversity and biological processes in agricultural systems. Different plants have different rooting depths, nutrient requirements and interactions with soil organisms. This can influence nutrient cycling, soil structure and resource use.
+
+IPCC identifies crop rotation, cover crops, perennial cropping systems and crop diversification among practices associated with increasing soil organic matter in croplands.
+
+Reasoning connection:
+When biodiversity indicators are low and land use is dominated by a single crop, diversification can be considered as an intervention that potentially addresses both biodiversity and soil-function dimensions.
+
+The appropriate crop combination depends on local climate, soil conditions, water availability and farming objectives.
+
+Sources:
+FAO Conservation Agriculture
+https://www.fao.org/conservation-agriculture/
+
+IPCC AR6 WGIII Chapter 7
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/

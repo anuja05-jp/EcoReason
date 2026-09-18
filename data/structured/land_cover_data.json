@@ -1,0 +1,51 @@
+[
+  {
+    "location": "Semi-arid India example",
+    "lat": 26.9,
+    "lon": 75.8,
+    "radius_m": 2000,
+    "land_cover_types_found": [
+      "landuse:brownfield",
+      "landuse:commercial",
+      "landuse:construction",
+      "landuse:education",
+      "landuse:farmland",
+      "landuse:grass",
+      "landuse:greenfield",
+      "landuse:industrial",
+      "landuse:railway",
+      "landuse:recreation_ground",
+      "landuse:religious",
+      "landuse:residential",
+      "landuse:village_green",
+      "natural:mountain_range",
+      "natural:scrub",
+      "natural:tree_row",
+      "natural:water",
+      "natural:wood"
+    ],
+    "habitat_diversity_count": 18
+  },
+  {
+    "location": "Sub-Saharan Africa example",
+    "lat": -1.3,
+    "lon": 36.8,
+    "radius_m": 2000,
+    "land_cover_types_found": [
+      "landuse:commercial",
+      "landuse:construction",
+      "landuse:grass",
+      "landuse:meadow",
+      "landuse:military",
+      "landuse:recreation_ground",
+      "landuse:religious",
+      "landuse:residential",
+      "landuse:retail",
+      "natural:grassland",
+      "natural:sand",
+      "natural:water",
+      "natural:wood"
+    ],
+    "habitat_diversity_count": 13
+  }
+]

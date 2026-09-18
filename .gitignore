@@ -1,0 +1,11 @@
+venv/
+.env
+data/vector_db/
+__pycache__/
+*.tif
+
+data/structured/current_profile.json
+data/structured/farmer_input.json
+data/structured/rag_reasoning_context.json
+data/structured/reasoning_context.json
+data/structured/final_recommendation.json

@@ -1,0 +1,18 @@
+[
+  {
+    "region": "semi-arid cropland (generic)",
+    "land_use_type": "monoculture wheat",
+    "deforestation_risk": "low",
+    "pollution_indicator": "moderate (fertilizer runoff)",
+    "source": "FAO Land Use Statistics 2022",
+    "source_url": "https://www.fao.org/land-water/land/land-use/en/"
+  },
+  {
+    "region": "tropical forest margin",
+    "land_use_type": "mixed agroforestry",
+    "deforestation_risk": "high if expanding",
+    "pollution_indicator": "low",
+    "source": "Global Forest Watch, 2023 report",
+    "source_url": "https://www.globalforestwatch.org/"
+  }
+]
